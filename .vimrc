@@ -36,6 +36,7 @@ set expandtab
 set tabstop=4
 set shiftwidth=4
 set smarttab
+set pastetoggle=<F2>
 
 " Dont change input methods when chaning input mode
 "set imd
