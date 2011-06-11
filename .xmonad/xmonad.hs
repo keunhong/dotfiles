@@ -163,7 +163,7 @@ myRightBar = myLeftBar
 -- Startup Script
 startup :: X()
 startup = do{
-            spawn "~/.xmonadrc"
+            spawn "~/.xmonad/autostart.sh"
             }
 
 -- Manage Hooks
