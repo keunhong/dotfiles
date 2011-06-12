@@ -77,7 +77,7 @@ main = do
 
 -- Layouts
 
-myLayout = avoidStruts $ smartBorders $ onWorkspace "1:main" mainLayout $ onWorkspace "2:dev" mainLayout $ onWorkspace "3:im" imLayout $ defaultLayout
+myLayout = avoidStruts $ smartBorders $ onWorkspace "1:main" mainLayout $ onWorkspace "3:im" imLayout $ defaultLayout
     where
         -- list layouts
         mainLayout = tiled ||| tall ||| Grid ||| Full
