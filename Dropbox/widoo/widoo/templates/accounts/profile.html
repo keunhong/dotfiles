@@ -1,0 +1,6 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <p>{% blocktrans %}{{ user.last_name}}{{ user.first_name }}{% endblocktrans %}</p>
+    <p>{{ user.email }}</p>
+{% endblock %}
