@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/k/Go-OpenGL/glu'
+let g:netrw_dirhist_2='/Users/k/Dropbox/Research/vision/src'
+let g:netrw_dirhist_3='/Users/k/Dropbox/College/5-2011 Fall/ieee/ieee/w'
+let g:netrw_dirhist_4='/Users/k/Dropbox/dev/projects/2010/voidim/django/voidim/projects'
+let g:netrw_dirhist_5='/Users/k/Dropbox/dev/widoo/widoo/forums/templatetags'
+let g:netrw_dirhist_6='/Users/k/Dropbox/dev/widoo/widoo/forums'

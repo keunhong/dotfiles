@@ -1,1 +1,0 @@
-Activation key for {{ user.first_name }}
